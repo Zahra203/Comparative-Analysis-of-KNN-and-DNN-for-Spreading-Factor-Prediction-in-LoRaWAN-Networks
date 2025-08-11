@@ -1,0 +1,1 @@
+# Comparative-Analysis-of-KNN-and-DNN-for-Spreading-Factor-Prediction-in-LoRaWAN-Networks
