@@ -1,6 +1,6 @@
 # Comparative Analysis of KNN and DNN for Spreading Factor Prediction in LoRaWAN Networks
 
-This repository contains the implementation and results of our project, **"Comparative Analysis of KNN and DNN for Spreading Factor Prediction in LoRaWAN Networks"**, inspired by the AI-ERA framework proposed by **[Professor's Full Name]**.
+This repository contains the implementation and results of our project, **"Comparative Analysis of KNN and DNN for Spreading Factor Prediction in LoRaWAN Networks"**, inspired by the AI-ERA framework proposed by **Dr Arshad Farhad** and **Jae-Young Pyun**.
 
 ## 📌 Overview
 In LoRaWAN-based IoT networks, selecting the optimal **Spreading Factor (SF)** is essential for balancing range, data rate, and energy efficiency.  
@@ -28,4 +28,4 @@ While the original **AI-ERA** approach used a **Deep Neural Network (DNN)**, we 
 - Simpler models like KNN can be more practical for **edge IoT deployments**.
 - SNR and Received Power were the most influential features for SF prediction.
 
-## 📂 Repository Structure
+
